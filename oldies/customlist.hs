@@ -1,5 +1,3 @@
-module Main where
-
 infixr 5 :::
 
 data CList a = CNil
